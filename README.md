@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sathish
-- 👀 I’m interested in developing frontend and backed technologies
+- 👀 I’m interested in developing frontend and backend technologies in javascript, python languages
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me on my github profile
