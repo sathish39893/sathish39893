@@ -1,5 +1,7 @@
 - 👋 Hi, I’m sathish
-- 👀 I’m interested in developing frontend and backend technologies in javascript, python languages
+- 👀 I’m frontend enthusiast with React, Angular and Vue experience
+- I am well versed with backend technologies with node JS and Python
+- Has experience in AWS and Azure Cloud deployments
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me on my github profile
